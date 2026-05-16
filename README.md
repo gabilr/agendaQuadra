@@ -33,3 +33,6 @@ Em uma versão futura, o sistema pode ser evoluído para suportar múltiplos usu
 - Integração com backend
 - Autenticação de usuários
 - Seleção de datas
+## 📸 Preview
+
+![preview](./preview.png)
