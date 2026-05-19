@@ -33,6 +33,10 @@ Em uma versão futura, o sistema pode ser evoluído para suportar múltiplos usu
 - Integração com backend
 - Autenticação de usuários
 - Seleção de datas
+
+  ## 🔗 Projeto Online
+[Acessar projeto](https://agenda-quadra.vercel.app)
+
 ## 📸 Preview
 
 ![preview](./preview.png)
